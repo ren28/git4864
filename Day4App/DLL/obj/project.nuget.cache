@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J1rNyS+nrmf1zLD1+6jTISnfp8pckN+49iipMMF7TbIJeG7q3NH2x6kODOKEa+Lkb2eYehKu+2E9BOGPA/l+Og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\78\\source\\repos\\Day4App\\DLL\\DLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\78\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\78\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

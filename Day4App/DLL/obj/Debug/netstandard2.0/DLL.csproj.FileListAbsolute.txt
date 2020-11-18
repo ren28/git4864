@@ -1,0 +1,9 @@
+C:\Users\78\source\repos\Day4App\DLL\bin\Debug\netstandard2.0\DLL.deps.json
+C:\Users\78\source\repos\Day4App\DLL\bin\Debug\netstandard2.0\DLL.dll
+C:\Users\78\source\repos\Day4App\DLL\bin\Debug\netstandard2.0\DLL.pdb
+C:\Users\78\source\repos\Day4App\DLL\obj\Debug\netstandard2.0\DLL.csprojAssemblyReference.cache
+C:\Users\78\source\repos\Day4App\DLL\obj\Debug\netstandard2.0\DLL.AssemblyInfoInputs.cache
+C:\Users\78\source\repos\Day4App\DLL\obj\Debug\netstandard2.0\DLL.AssemblyInfo.cs
+C:\Users\78\source\repos\Day4App\DLL\obj\Debug\netstandard2.0\DLL.csproj.CoreCompileInputs.cache
+C:\Users\78\source\repos\Day4App\DLL\obj\Debug\netstandard2.0\DLL.dll
+C:\Users\78\source\repos\Day4App\DLL\obj\Debug\netstandard2.0\DLL.pdb

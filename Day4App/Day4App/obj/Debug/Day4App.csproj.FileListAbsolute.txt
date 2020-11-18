@@ -1,0 +1,7 @@
+C:\Users\78\source\repos\Day4App\Day4App\bin\Debug\Day4App.exe.config
+C:\Users\78\source\repos\Day4App\Day4App\bin\Debug\Day4App.exe
+C:\Users\78\source\repos\Day4App\Day4App\bin\Debug\Day4App.pdb
+C:\Users\78\source\repos\Day4App\Day4App\obj\Debug\Day4App.csprojAssemblyReference.cache
+C:\Users\78\source\repos\Day4App\Day4App\obj\Debug\Day4App.csproj.CoreCompileInputs.cache
+C:\Users\78\source\repos\Day4App\Day4App\obj\Debug\Day4App.exe
+C:\Users\78\source\repos\Day4App\Day4App\obj\Debug\Day4App.pdb
